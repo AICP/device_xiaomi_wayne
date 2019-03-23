@@ -23,4 +23,4 @@
 
 # inherit MI 6X HAVOC device config
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/havoc_wayne.mk
+    $(LOCAL_DIR)/aicp_wayne.mk
