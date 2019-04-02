@@ -21,6 +21,6 @@
 # definition file).
 #
 
-# inherit MI 6X HAVOC device config
+# inherit MI 6X AICP device config
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/aicp_wayne.mk
