@@ -21,6 +21,9 @@
 # definition file).
 #
 
+#AOSP SU
+WITH_SU := false
+
 # Inherit device configuration
 $(call inherit-product, device/xiaomi/wayne/device.mk)
 
