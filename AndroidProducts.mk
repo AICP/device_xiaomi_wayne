@@ -21,11 +21,11 @@
 # definition file).
 #
 
-# inherit MI 6X HAVOC device config
+# inherit MI 6X Omni device config
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/havoc_wayne.mk
+    $(LOCAL_DIR)/omni_wayne.mk
 
 COMMON_LUNCH_CHOICES := \
-    havoc_wayne-eng \
-    havoc_wayne-userdebug \
-		havoc_wayne-user
+    omni_wayne-eng \
+    omni_wayne-userdebug \
+		omni_wayne-user

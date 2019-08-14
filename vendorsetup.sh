@@ -21,6 +21,6 @@
 # definition file).
 #
 
- add_lunch_combo havoc_wayne-eng
- add_lunch_combo havoc_wayne-userdebug
- add_lunch_combo havoc_wayne-user
+ add_lunch_combo omni_wayne-eng
+ add_lunch_combo omni_wayne-userdebug
+ add_lunch_combo omni_wayne-user
