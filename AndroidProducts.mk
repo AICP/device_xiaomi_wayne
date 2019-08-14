@@ -21,11 +21,11 @@
 # definition file).
 #
 
-# inherit MI 6X Omni device config
+# inherit MI 6X AICP device config
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_wayne.mk
+    $(LOCAL_DIR)/aicp_wayne.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_wayne-eng \
-    omni_wayne-userdebug \
-		omni_wayne-user
+    aicp_wayne-eng \
+    aicp_wayne-userdebug \
+    aicp_wayne-user
