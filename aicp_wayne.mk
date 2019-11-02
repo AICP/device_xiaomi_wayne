@@ -33,13 +33,9 @@ $(call inherit-product, vendor/aicp/config/common_full_phone.mk)
 # Define first api level
 $(call inherit-product, $(SRC_TARGET_DIR)/product/product_launched_with_o_mr1.mk)
 
-TARGET_VENDOR_PRODUCT_NAME := wayne
-
-
 # Device identifier
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MANUFACTURER := Xiaomi
-PRODUCT_PLATFORM := SDM660
 PRODUCT_NAME := aicp_wayne
 PRODUCT_DEVICE := wayne
 PRODUCT_MODEL := MI 6X
